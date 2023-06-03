@@ -1,3 +1,36 @@
-# Snakes-and-ladders
-The project combines the snakes and ladders game with monoply by allowing the player to purchase cells and step on cards which have various effects.
-The project uses OOP concepts like inheritance and polymorphism and uses CMU library as graphic interface
+# Snakes and Ladders with Monopoly Cards
+
+A reinterpretation of the classical game Snakes and Ladders but with a twist by adding Monopoly Cards to the game using C++, OOP, and CMUgraphics Library.
+
+
+## Software Required to Run the Game:
+
+For this project you will only need to have [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/).
+
+## Game Preview:
+<h2>Design Mode:</h2>
+
+<p>This is where you design your grid by adding Snakes, Ladders, and Cards depending on your preference.</p>
+![Test1](https://github.com/yehiatarek63/Snakes-and-ladders/assets/94568731/a480c29c-5897-43d8-b169-44a16bbead70)
+
+<h2>Play Mode:</h2>
+
+<p>This is where you begin your adventures and play the game with 3 of your friends.</p>
+![Test4](https://github.com/yehiatarek63/Snakes-and-ladders/assets/94568731/78366a4d-ed26-47ef-90c7-ccd315c16a9a)
+
+
+## Cards Description:
+
+<ul>
+  <li>Card 1: Decrements the value of the passing player’s wallet by a value specified when creating the grid.</li>
+  <li>Card 2: Moves the player forward to the start of the next ladder in the grid.</li>
+  <li>Card 3: Gives the player an extra dice roll.</li>
+  <li>Card 4: Prevents the player from rolling the next turn.</li>
+  <li>Card 5: Moves the player backward with the same number of steps that he just rolled.</li>
+  <li>Card 6: Instructs the player to go to a specific cell.</li>
+  <li>Card 7: Restarts the game for the first player whose cell is after the current player in the grid.</li>
+  <li>Card 8: Prison Card (Prevents the player from rolling the dice for 3 turns)</li>
+  <li>Cards 9 to 11: Property Cards</li>
+  <li>Card 12: This card moves the ownership of the most expensive station that the current user owns from the current user to the player that has the least amount of coins in his wallet.</li>
+</ul>
+
