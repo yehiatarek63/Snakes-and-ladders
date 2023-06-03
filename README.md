@@ -11,13 +11,13 @@ For this project you will only need to have [Microsoft Visual Studio](https://vi
 <h2>Design Mode:</h2>
 
 <p>This is where you design your grid by adding Snakes, Ladders, and Cards depending on your preference.</p>
-[Test1](https://github.com/yehiatarek63/Snakes-and-ladders/assets/94568731/12178d5f-8a86-44bf-a1c4-1ff4db21f48a)
+![Test1](https://github.com/yehiatarek63/Snakes-and-ladders/assets/94568731/12178d5f-8a86-44bf-a1c4-1ff4db21f48a)
 
 
 <h2>Play Mode:</h2>
 
 <p>This is where you begin your adventures and play the game with 3 of your friends.</p>
-[Test4](https://github.com/yehiatarek63/Snakes-and-ladders/assets/94568731/c4aaea34-482e-4874-ac57-0ac808b60bd6)
+![Test4](https://github.com/yehiatarek63/Snakes-and-ladders/assets/94568731/c4aaea34-482e-4874-ac57-0ac808b60bd6)
 
 
 ## Cards Description:
