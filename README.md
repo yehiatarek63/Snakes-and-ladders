@@ -11,13 +11,13 @@ For this project you will only need to have [Microsoft Visual Studio](https://vi
 <h2>Design Mode:</h2>
 
 <p>This is where you design your grid by adding Snakes, Ladders, and Cards depending on your preference.</p>
-![Test1](https://github.com/yehiatarek63/Snakes-and-ladders/blob/main/Test1.jpeg)
+<img src="https://github.com/fares-h-moneim/Snakes-and-Ladders-with-Monopoly-Cards/blob/main/Game%20Preview/Test1.jpeg"></img>
 
 
 <h2>Play Mode:</h2>
 
 <p>This is where you begin your adventures and play the game with 3 of your friends.</p>
-![Test4](https://github.com/yehiatarek63/Snakes-and-ladders/blob/main/Test4.jpeg)
+<img src="https://github.com/fares-h-moneim/Snakes-and-Ladders-with-Monopoly-Cards/blob/main/Game%20Preview/Test4.JPG"></img>
 
 
 ## Cards Description:
